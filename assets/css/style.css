@@ -1,7 +1,16 @@
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: rgba(253, 223, 164, 0.6);
 }
 
 h1 {
     font-family: 'Roboto Slab', serif;
+}
+
+.header-img {
+    max-width: 300px;
+}
+
+.text-center {
+    text-align: center;
 }
