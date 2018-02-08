@@ -7,6 +7,10 @@ h1 {
     font-family: 'Roboto Slab', serif;
 }
 
+ul {
+    list-style: none;
+}
+
 .header-img {
     max-width: 300px;
 }
